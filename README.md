@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Ganesh 👋
 
 <!--
 **ganesh140/ganesh140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an MSc Computer Science student at Julius Maximilians Universität Würzburg, with a solid background in Computer Science & Engineering. I used to be a Multiplatform Front-End Developer at Accenture, where I worked on some pretty cool projects.
+
+Now, I'm all about Machine Learning—figuring out how to make machines smarter and solving real-world problems with code. But hey, I don’t just code for work—I love building my own projects, experimenting with new tech, and sometimes just coding for fun. 🚀
+
+Always up for a challenge, always learning. 😎
